@@ -40,8 +40,8 @@ This project aims to **predict breast cancer** using a deep learning model built
 
 ```python
 model = Sequential()
-model.add(Dense(32, input_shape=(30,), activation='relu'))
-model.add(Dense(16, activation='relu'))
+model.add(Dense(64, input_shape=(30,), activation='relu'))
+model.add(Dense(32, activation='relu'))
 model.add(Dense(1, activation='sigmoid'))
 
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
