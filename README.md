@@ -57,12 +57,6 @@ model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy']
 
 ### ✔️ Accuracy Achieved: **~82%**
 
-### 📉 Training Graphs:
-
-<p align="center">
-  <img src="loss_curve.png" width="400" alt="Loss Curve"/>
-  <img src="accuracy_curve.png" width="400" alt="Accuracy Curve"/>
-</p>
 
 ---
 
