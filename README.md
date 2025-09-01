@@ -8,7 +8,7 @@ It contains features computed from digitized images of fine needle aspirates (FN
 - **Total Samples:** 569  
 - **Classes:** Malignant (M) / Benign (B)  
 - **Features:** 30 numerical features (mean, standard error, and worst of cell nuclei measurements)
-
+  
 ---
 
 ## 🔬 Project Overview
